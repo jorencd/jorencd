@@ -1,4 +1,4 @@
-<img src="https://github.com/ratty-debug/ratty-debug/assets/153485490/889f5735-85b4-46e3-9c7d-b7c81517df58" width="50%" />
+<img src="https://github.com/ratty-debug/ratty-debug/assets/153485490/889f5735-85b4-46e3-9c7d-b7c81517df58" width="100%" height="172" />
 
 
 <h1 align="center">Hi 👋, I'm Jorence Mendoza</h1>
